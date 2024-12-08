@@ -1,4 +1,4 @@
-package com.tictactoe;
+package com.javarush.tictactoe.model;
 
 import java.util.HashMap;
 import java.util.List;

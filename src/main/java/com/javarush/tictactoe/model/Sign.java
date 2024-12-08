@@ -1,4 +1,4 @@
-package com.tictactoe;
+package com.javarush.tictactoe.model;
 
 public enum Sign {
     EMPTY(' '),
